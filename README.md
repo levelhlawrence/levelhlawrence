@@ -4,7 +4,7 @@
 
 Welcome to my digital playground, where I craft pixel-perfect experiences and bring web designs to life. Join me on this journey as I explore the ever-evolving world of web development, one line of code at a time! 💻✨ 
 
-Skills: **REACT / NEXT JS / NODE / HTML / CSS***
+Skills: **REACT / NEXT JS / NODE / HTML / CSS**
 
 - 🔭 I’m currently working on this page. 
 
